@@ -1,0 +1,15 @@
+X: 23
+T: Simple Repeat
+M: 4/4
+V:1
+V:2
+K: C
+
+V:1
+aaaa | abab | [1 ffff |
+
+V:2
+CCCC | CCCC| CCCC | CCCC|CCCC|CCCC|CCCC|CCCC|CCCC|CCCC|
+
+V:1
+eeee :|[2 fcfc | fcfc|
